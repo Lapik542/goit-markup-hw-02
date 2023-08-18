@@ -50,24 +50,12 @@ button {
   letter-spacing: 0.32px;
 }
 
-.blue-logo {
-  color: #4d5ae5;
-  font-family: Raleway;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
-  font-family: 'Raleway', sans-serif;
-  line-height: 1.17;
-}
-
 .logo-studio {
   color: #2e2f42;
 }
 
 .logotype {
-  color: var(--navyblue);
+  color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
   font-style: normal;
