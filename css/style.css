@@ -7,7 +7,10 @@
 }
 
 body {
+  font-family: 'Raleway', sans-serif;
   font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #fff;
 }
 
 button {
@@ -34,7 +37,7 @@ button {
 
 .menu-link:hover,
 .menu-link:focus {
-  color: var(--try-color);
+  color: #404bbf;
 }
 
 .list {
@@ -48,14 +51,19 @@ button {
 }
 
 .blue-logo {
-  color: var(--try-color);
+  color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.17;
+}
+
+.logo-studio {
+  color: #2e2f42;
 }
 
 .logotype {
@@ -64,7 +72,21 @@ button {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.17;
+}
+
+.page-address {
+  font-style: normal;
+}
+
+.menu-address {
+  color: #434455;
+}
+
+.menu-address:hover,
+.menu-address:focus {
+  color: #404bbf;
 }
