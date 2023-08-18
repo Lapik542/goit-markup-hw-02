@@ -28,20 +28,43 @@ button {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 24px;
   letter-spacing: 0.32px;
-
-  color: #4d5ae5;
 }
 
-.address-list {
-  color: var(--slate, #434455);
-  /* Body */
+.menu-link:hover,
+.menu-link:focus {
+  color: var(--try-color);
+}
+
+.list {
+  color: var(--navyblue);
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 24px;
-  /* 150% */
   letter-spacing: 0.32px;
+}
+
+.blue-logo {
+  color: var(--try-color);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.logotype {
+  color: var(--navyblue);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
