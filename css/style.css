@@ -56,7 +56,6 @@ button {
 
 .logotype {
   color: #4d5ae5;
-  font-family: Raleway;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -165,7 +164,6 @@ button {
 }
 
 .img-team {
-  display: inline-flex;
   padding-bottom: 0px;
   justify-content: center;
   align-items: center;
