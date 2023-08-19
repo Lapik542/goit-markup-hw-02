@@ -163,10 +163,6 @@ button {
   text-transform: capitalize;
 }
 
-.img-team {
-  justify-content: center;
-}
-
 .team-name {
   color: var(--navyblue, #2e2f42);
   text-align: center;
