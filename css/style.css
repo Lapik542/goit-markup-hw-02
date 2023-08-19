@@ -37,7 +37,7 @@ button {
 
 .menu-link:hover,
 .menu-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .list {
@@ -138,7 +138,11 @@ button {
 }
 
 .list-team {
-  background: #fff;
+  background: #ffffff;
+}
+
+.team-list {
+  background-color: #ffffff;
 }
 
 .team {
@@ -195,7 +199,7 @@ button {
   letter-spacing: 0.32px;
 }
 
-/* SECTION-4 */
+/* Our Portfolio */
 
 .portfolio {
   background: #fff;
